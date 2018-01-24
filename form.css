@@ -1,0 +1,14 @@
+body{    
+    background-image: url("background.png");
+}
+#page-wrap{
+    width: 40%; 
+    margin: 0 auto;
+    margin-top: 180px;
+}
+.successMessage{         
+    margin-top: 300px;
+    color: darkblue;
+    text-align: center;
+    font-family: callibri;
+}
